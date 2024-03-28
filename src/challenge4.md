@@ -1,0 +1,3 @@
+- First Class functions are functions that can be assigned to any variable, passed as an argument or returned by another function.
+- In JavaScript, the array is first converted to a collection and then the function is applied to the collection.
+- Declaring is like creating it, while calling it is in order to use it. You have to first declare the function before you can call it.
